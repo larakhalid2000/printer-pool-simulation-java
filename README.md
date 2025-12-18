@@ -22,7 +22,7 @@ An Operating Systems academic project implemented in Java that simulates the Pro
 Due to GitHub file size limitations, the complete project files (source code and detailed report) are available via Google Drive.
 
 🔗 **Google Drive Link:**  
-
+https://drive.google.com/drive/folders/1iRjRFY05quZ_6Lj5yg_pi6HlB2Xnef7u?usp=drive_link
 
 Contents of the Drive folder:
 - Full Java source code
